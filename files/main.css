@@ -6716,7 +6716,7 @@ body {
     margin-left: 15px;
     background: #1a1a1a;
     border: none;
-    border-radius: 6px
+    border-radius: 6px;
 }
 
 .hamburger.is-closed .hamb-bottom,.hamburger.is-closed .hamb-middle,.hamburger.is-closed .hamb-top,.hamburger.is-open .hamb-bottom,.hamburger.is-open .hamb-middle,.hamburger.is-open .hamb-top {
